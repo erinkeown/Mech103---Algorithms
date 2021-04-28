@@ -1,4 +1,4 @@
-# Mech103---Algorithms
+# Mech103-Algorithms
 These are some of the algorithms I created for labs/projects in Mech103 - Intro to Mechanical Engineering
 **All of this code was used in conjuction with an Arduino**
 ## This folder includes:
